@@ -31,19 +31,33 @@ The design demonstrates practical CAD skills in part modeling, assembly design, 
 
 ---
 
-## CAD Assembly
+## CAD Model & Assembly
 
-### Gear Drive Assembly
+### Front Assembly View
 
-The final assembly combines the spur gear, shaft, pulley, bearings, and structural supports into a complete mechanical drive system.
+![Front Assembly View](assets/gear_drive_front_view.png)
 
-### Shaft and Bearing Support
+This view shows the main mechanical drive assembly, including the spur gear, shaft, pulley, support brackets, bearings, base structure, and fastening components.
 
-The rotating shaft is supported by bearings and mounted between structural brackets, providing the main axis for the rotating mechanical components.
+### Rear Assembly View
 
-### Pulley and Gear Integration
+![Rear Assembly View](assets/gear_drive_rear_view.png)
 
-The pulley and spur gear are mounted along the shaft as part of the mechanical transmission assembly.
+This view highlights the rear side of the assembly, showing the shaft support arrangement, pulley positioning, bearing locations, structural brackets, and mounting hardware.
+
+---
+
+## Mechanical Design Features
+
+The assembly demonstrates several important mechanical design concepts:
+
+- Shaft-supported rotating components
+- Spur gear integration
+- Pulley integration
+- Bearing-supported shaft design
+- Structural support using brackets
+- Mechanical fastening using bolts and standard hardware
+- Multi-component assembly integration
 
 ---
 
@@ -70,8 +84,17 @@ mechanical-gear-drive-solidworks/
 │   └── gear_drive_rear_view.png
 │
 ├── solidworks-files/
-│   ├── SOLIDWORKS part files (.SLDPRT)
-│   └── SOLIDWORKS assembly files (.SLDASM)
+│   ├── 1ass.SLDASM
+│   ├── ass.SLDASM
+│   ├── base.SLDPRT
+│   ├── bracket.SLDPRT
+│   ├── SHAFT.SLDPRT
+│   ├── PULLY.SLDPRT
+│   ├── RING.SLDPRT
+│   ├── OPEN COVER.SLDPRT
+│   ├── CLOSED VOVER.SLDPRT
+│   ├── spur gear_iso 23.SLDPRT
+│   └── ISO - Spur gear 4M 23T 20PA 30FW ---S23C40H40L24.0R1.SLDPRT
 │
 └── README.md
 ```
