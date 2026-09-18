@@ -1,5 +1,12 @@
 # Mechanical Gear Drive Assembly
 
+![CAD](https://img.shields.io/badge/CAD-SOLIDWORKS-E2231A?style=flat-square)
+![Discipline](https://img.shields.io/badge/Discipline-Mechanical%20Design-555555?style=flat-square)
+![System](https://img.shields.io/badge/System-Power%20Transmission-blue?style=flat-square)
+![Gear](https://img.shields.io/badge/Drive-Spur%20Gear-orange?style=flat-square)
+![Assembly](https://img.shields.io/badge/Design-Multi--Component%20Assembly-blueviolet?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 A 3D mechanical CAD project featuring the design and assembly of a mechanical gear drive system developed using **SOLIDWORKS**.
 
 The assembly integrates a spur gear, shaft, pulley, bearings, support brackets, covers, base structure, and standard fastening components into a complete mechanical drive assembly.
